@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="umaru-typing.gif" width="280" alt="Umaru typing" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJuZThnNTlrZmM0bHQxMXU5amdud3d2a3JkY3oxdDVlOHN2ZWxoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fY7S3GDVmQFIUlFAl6/giphy.gif" width="280" alt="Umaru typing" />
 
 <br/><br/>
 
