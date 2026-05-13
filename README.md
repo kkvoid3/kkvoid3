@@ -20,6 +20,6 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkvoid3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkvoid3&theme=tokyonight" width="40%" />
 
 </div>
