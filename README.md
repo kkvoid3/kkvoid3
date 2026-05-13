@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="umaru-typing.gif" width="280" alt="Umaru typing" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -12,8 +16,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kkvoid3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=kkvoid3&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kkvoid3&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br/>
 
